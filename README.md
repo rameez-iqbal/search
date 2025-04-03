@@ -20,3 +20,5 @@ Using **npm**:
 ```bash
 npm install
 
+## 🛠️ run development env
+npm run dev
